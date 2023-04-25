@@ -1,6 +1,7 @@
 # "Система мониторинга Prometheus ч.1"  "Бойко Владислав"
 ## Задание 1
-
+Готово
+![готово](https://github.com/VladiSlave2042/Prometheus_1/blob/main/img/1.1.png)
 ---
 ## Задание 2
 
